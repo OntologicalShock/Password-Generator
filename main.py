@@ -36,4 +36,8 @@ hardPass = "".join(ezPassList)
 
 print(f"Hard Mode Password: {hardPass}")
 
+#Structured Hard Level - Mimic MasterPassword format:
+#e.g. 14 characters = BirlGult5%Solp
+
+
 sys.exit()
